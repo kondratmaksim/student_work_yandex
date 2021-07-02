@@ -58,7 +58,7 @@
 <td> <b>10</b></td>
 <td><a href="https://nbviewer.jupyter.org/github/kondratmaksim/student_work_yandex/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%2010.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%B2%20%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D0%BE%D0%BC%20%D1%84%D0%B8%D1%82%D0%BD%D0%B5%D1%81-%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B5.ipynb" target="_blank"><b>Анализ оттока клиентов в сетевом фитнес-центре.</b></a></td>
 <td>Научиться прогнозировать вероятность оттока, для каждого клиента. Сформировать портреты клиентов. Разработать рекомендации по повышению качества работы с клиентами.</td>
-<td>pandas, numpy, matplotlib, seaborn, plotly, datetime, scipy, sklearn</td>
+<td>pandas, numpy, matplotlib, seaborn, plotly, scipy, sklearn</td>
 </table>
 <br/><br/>
 
