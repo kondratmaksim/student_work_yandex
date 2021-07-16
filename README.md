@@ -21,7 +21,7 @@
 <td>pandas, pymystem3, numpy, math, plotly, seaborn, matplotlib, statsmodels</td>
 <tr>
 <td><b>3</b></td>
-<td><a href="https://nbviewer.jupyter.org/github/kondratmaksim/student_work_yandex/blob/d0bec60fe4469f2c71aec1cff376998cf7b9b7cc/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201.%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B7%D0%B0%D0%B5%D0%BC%D1%89%D0%B8%D0%BA%D0%BE%D0%B2.ipynb" target="_blank"><b>Исследование надежности заемщиков</b></a></td>
+<td><a href="https://nbviewer.jupyter.org/github/kondratmaksim/student_work_yandex/blob/d0bec60fe4469f2c71aec1cff376998cf7b9b7cc/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201.%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B7%D0%B0%D0%B5%D0%BC%D1%89%D0%B8%D0%BA%D0%BE%D0%B2.ipynb" target="_blank"><b>Анализ базы данных сервиса для чтения книг.</b></a></td>
 <td>Проанализировать базу данных. В ней — информация о книгах, издательствах, авторах, а также пользовательские обзоры книг.</td>
 <td>pandas, sqlalchemy, numpy</td>
 <tr>
