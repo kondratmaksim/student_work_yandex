@@ -1,6 +1,34 @@
 ## <a href="https://praktikum.yandex.ru/data-analyst/" target="_blank"><b>Яндекс.Практикум "Аналитик данных"</b></a>
 
 <br/><br/><br/>
+Выпускной проект:
+
+<table>
+<tr>
+<td><b>№</b></td>
+<td><b>Название (+ ссылка)</b></td>
+<td><b>Описание проекта</b></td>
+<td><b>Библиотеки</b></td>
+<tr>
+<td><b>1</b></td>
+<td><a href="https://nbviewer.jupyter.org/github/kondratmaksim/student_work_yandex/blob/main/e-com_final_project.ipynb" target="_blank"><b>Выявление профилей потребления.</b></a></td>
+<td>Выявление профилей покупателей для опитимизации расходов тергетированной рекламы.</td>
+<td>pandas, pymystem3, numpy, math, scipy, collections, plotly, seaborn, matplotlib, sklearn</td>
+<tr>
+<td><b>2</b></td>
+<td><a href="https://nbviewer.jupyter.org/github/kondratmaksim/student_work_yandex/blob/main/a-b_final_project.ipynb" target="_blank"><b>Оценка результатов A/B-теста.</b></a></td>
+<td>Провести оценку результатов A/B-теста. В вашем распоряжении есть датасет с действиями пользователей, техническое задание и несколько вспомогательных датасетов.</td>
+<td>pandas, pymystem3, numpy, math, plotly, seaborn, matplotlib, statsmodels</td>
+<tr>
+<td><b>3</b></td>
+<td><a href="https://nbviewer.jupyter.org/github/kondratmaksim/student_work_yandex/blob/d0bec60fe4469f2c71aec1cff376998cf7b9b7cc/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201.%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B7%D0%B0%D0%B5%D0%BC%D1%89%D0%B8%D0%BA%D0%BE%D0%B2.ipynb" target="_blank"><b>Исследование надежности заемщиков</b></a></td>
+<td>Проанализировать базу данных. В ней — информация о книгах, издательствах, авторах, а также пользовательские обзоры книг.</td>
+<td>pandas, sqlalchemy, numpy</td>
+<tr>
+</table>
+<br/><br/>
+
+<br/><br/><br/>
 Описание всех проектов:
 
 <table>
@@ -61,4 +89,3 @@
 <td>pandas, numpy, matplotlib, seaborn, plotly, scipy, sklearn</td>
 </table>
 <br/><br/>
-
