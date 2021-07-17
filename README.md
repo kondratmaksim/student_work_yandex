@@ -21,7 +21,7 @@
 <td>pandas, pymystem3, numpy, math, plotly, seaborn, matplotlib, statsmodels</td>
 <tr>
 <td><b>3</b></td>
-<td><a href="https://github.com/kondratmaksim/student_work_yandex/blob/main/db_final_project.ipynb" target="_blank"><b>Анализ базы данных сервиса для чтения книг.</b></a></td>
+<td><a href="https://nbviewer.jupyter.org/github/kondratmaksim/student_work_yandex/blob/main/db_final_project.ipynb" target="_blank"><b>Анализ базы данных сервиса для чтения книг.</b></a></td>
 <td>Проанализировать базу данных. В ней — информация о книгах, издательствах, авторах, а также пользовательские обзоры книг.</td>
 <td>pandas, sqlalchemy, numpy</td>
 <tr>
